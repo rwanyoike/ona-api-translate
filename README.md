@@ -1,6 +1,10 @@
-# ona-api-translate
+# Ona API Translate
 
-> A Vue.js project
+> A tool to automatically translate Ona.io XLSX forms.
+
+## Screenshot
+
+![](screenshot.png)
 
 ## Build Setup
 
